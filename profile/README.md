@@ -1,6 +1,6 @@
 # TownyWars
 
-This organization holds repositories for mods and plugins of TownyWars Minecraft modpack
+This organization holds repositories of mods and plugins for TownyWars Minecraft modpack
 
 <!--
 
